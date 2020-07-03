@@ -1,3 +1,3 @@
 # test
 
-Let's add stuf with a typo
+Let's add stuff with a typo
